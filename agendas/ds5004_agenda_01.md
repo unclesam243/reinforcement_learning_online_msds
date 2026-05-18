@@ -6,15 +6,16 @@
 
 - Communications:
   - Teams for IM
-  - Email me for questions about grading and other individual topics
+  - Email the TA for questions about grading
+  - Email me for other topics
 
 ---
 
 ### Upcoming Deliverables
 
-Due Friday, Sep 5, 2025 at 11:59pm ET:
+Due Friday, May 29, 2026 at 11:59pm ET:
 
-- Lab 1: Cart Pole I 
+- Lab 1: Cart Pole I
 - Quiz 1: RL Essentials
 
 ---
